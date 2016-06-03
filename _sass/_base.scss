@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-color: white;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -205,4 +205,24 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.icon-ai {
+	display:inline-block;
+	font:normal normal normal 14px/1 Academicons;
+	font-size:inherit;
+	text-rendering:auto;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	width: 1em;
+
+}
+
+
+.icon-scholar:before {
+	content: "\e900";
+}
+
+.icon-orcid:before {
+	content: "\e907";
 }
