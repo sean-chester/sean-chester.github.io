@@ -6,20 +6,25 @@ order: 1
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS$^2$</a></p>
+	<div id="name-box" >
+		<h1 style="padding-bottom:0em; margin-bottom:0em; ">Sean Chester</h1>
+		<h3 style="padding:0em; margin:0em; ">Postdoc, NTNU, Norway </h2 >
+	</div>
+	 
+  <div id="info-box" >
+  
+  	<img id="me" src="/assets/images/sean_chester_in_hamborg_small.jpg" />
+  	<div style="display:inline; float:right; width:65%; " >
+  	<h4>Research Focus</h4>
+  	<span style="font-style:italic; ">
+  		<ul>
+  			<li> databases and data management </li> 
+  			<ul>
+	  			<li> algorithm design and analysis </li> 
+  				<li> multicore and GPU algorithms </li>
+  			</ul>
+  	</span>
+  	</div>
+  </div>
 
 </div>
