@@ -206,3 +206,14 @@ pre {
         }
     }
 }
+
+.icon-link {
+
+		> svg {
+		
+			path {
+				fill: currentColor;
+			}
+		
+		}
+}
