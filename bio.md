@@ -37,4 +37,27 @@ in the [Data-Intensive Systems](http://cs.au.dk/research-at-cs/data-intensive-sy
 group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
 
 
+### Primary statistics
+
+ * H-Index (according to Google Scholar): 7 
+ 
+ * PhD students co-supervised: 
+ 1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
+ 5 ongoing
+ 
+ * MSc students co-supervised: 4 completed
+ 
+ * PC Committees: 
+ [EMNLP 2016](http://www.emnlp2016.net/), 
+ [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
+ 
+ * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde)
+ 
+ * Conference External Reviewer: [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
+ [ACL 2016](http://acl2016.org/), [EDBT 2016](http://edbticdt2016.labri.fr/), 
+ [SSDBM 2014](http://ssdbm2014.org/), [SIGKDD 2014](http://www.kdd.org/kdd2014/), 
+ [DASFAA 2014](http://www.comp.nus.edu.sg/~dasfaa14/), [ExploreDB 2014](https://sites.google.com/site/exploredb2014/home),
+ [ICALP 2013](http://www.icalp2013.lu.lv/), [FoIKS 2012](http://2012.foiks.org/), 
+ [CIKM 2011](http://www.cikm2011.org/) 
+
 
