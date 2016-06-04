@@ -236,10 +236,10 @@ pre {
 #info-box {
 		display: block;
 		margin-top: $spacing-unit; 
-		max-width: 500px;
+		max-width: 400px;
 		margin-left: auto;
 		margin-right: auto;
-		padding:1em; 
+		padding:1em 2em 1em 2em; 
 		border-radius:25px; 
 		background-color: $grey-color-ultra-light;
 		overflow: hidden;
@@ -248,9 +248,15 @@ pre {
 #me {
 		max-width:200px; 
 		width:24%; 
-		margin-right: 4%; 
-		margin-left:2%;
 		display:inline; 
 		border:thin black solid;
 		clear: none;
+		margin-left:3%; 
+}
+
+#research-focus {
+		display:inline; 
+		float:right; 
+		width:60%;
+		margin-right:3%;
 }
