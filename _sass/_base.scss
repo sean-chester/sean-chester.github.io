@@ -218,6 +218,10 @@ pre {
 		}
 }
 
+.icon--email {
+		color: $grey-color;
+}
+
 
 /**
  * Home page layout
@@ -239,7 +243,7 @@ pre {
 		max-width: 400px;
 		margin-left: auto;
 		margin-right: auto;
-		padding:1em 2em 1em 2em; 
+		padding:1em 1.5em 1em 1.5em; 
 		border-radius:25px; 
 		background-color: $grey-color-ultra-light;
 		overflow: hidden;
@@ -251,12 +255,62 @@ pre {
 		display:inline; 
 		border:thin black solid;
 		clear: none;
-		margin-left:3%; 
+		margin-left:1.5%; 
 }
 
 #research-focus {
 		display:inline; 
 		float:right; 
-		width:60%;
-		margin-right:3%;
+		width:70%;
+}
+
+
+
+/** 
+ * Directions on contact page.
+ */
+.direction-box {
+		margin-top: $spacing-unit; 
+		padding:2em;
+		background-color: $grey-color-ultra-light;
+		border-radius: 25px; 
+		overflow: hidden; 
+}
+
+/**
+ * For responsive embedded maps. 
+ * see: http://www.labnol.org/internet/embed-responsive-google-maps/28333/
+ */
+.map {
+  	position: relative;
+  	padding-bottom: 50%; // This is the aspect ratio
+    overflow: hidden;
+    width: 48%; 
+    height: 0;
+    
+    display: inline-block;
+	
+		iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+        
+    @include media-query($on-laptop) {
+     		width: 95% !important;
+    		height: 95% !important;
+    		margin-bottom: $spacing-unit;
+    }
+}
+
+.directions {
+		width: 48%; 
+		float:right; 
+		display:inline-block;
+		
+		@include media-query($on-laptop) {
+				width: 100%;
+		} 
 }
