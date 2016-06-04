@@ -6,21 +6,29 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-author: Sean Chester
+title: Sean Chester, Postdoc, NTNU
+author: schester
 email: sean.chester@idi.ntnu.no
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The personal, academic webpage for Sean Chester, postdoctoral fellow 
+  at the Norwegian University of Science and Technology (NTNU). This site 
+  highlights recent research and provides open-access author preprints.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sean-chester.github.io" # the base hostname & protocol for your site
 repository: sean-chester/sean-chester.github.io
 twitter_username: schester_
+twitter:
+  username: schester_
 github_username:  sean-chester
 scholar_username: ZxNF5OYAAAAJ
 orcid_username: 0000-0002-1065-605X
 linkedin_username: sean-chester-24a2311a
+google_site_verification: v47833PE1BNhMRvPyy3gqvFr_k9dfDy8fBGMboEV3eI
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  
