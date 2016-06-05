@@ -1,10 +1,19 @@
 ---
 layout: page
 title: Sean Chester - Biography
+description: >
+  A brief biography of Dr. Sean Chester, postdoctoral fellow at the 
+  Norwegian University of Science and Technology (NTNU) in Trondheim, 
+  Norway. 
 heading: Biography
 nav-title: Biography
 permalink: /bio/
 order: 2
+seo:
+  name: Sean Chester
+  links: ["https://plus.google.com/+SeanChester",
+  "https://no.linkedin.com/in/seanchester",
+  "http://www.ntnu.edu/employees/seanwc"]
 ---
 
 Sean Chester is a postdoctoral fellow in the 
