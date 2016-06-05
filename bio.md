@@ -43,9 +43,13 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  
  * PhD students co-supervised: 
  1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
- 5 ongoing
+ 4 ongoing
  
- * MSc students co-supervised: 4 completed
+ * MSc students co-supervised: 4 completed 
+ ([Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
+ [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
+ [Lisbet M&oslash;ller Andersen](https://www.linkedin.com/in/lisbetmollerandersen), 
+ [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2))
  
  * PC Committees: 
  [EMNLP 2016](http://www.emnlp2016.net/), 
