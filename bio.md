@@ -60,11 +60,11 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [Lisbet M&oslash;ller Andersen](https://www.linkedin.com/in/lisbetmollerandersen), 
  [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2))
  
- * PC Committees: 
+ * Program Committees: 
  [EMNLP 2016](http://www.emnlp2016.net/), 
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
- * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde)
+ * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 2)
  
  * Conference External Reviewer: [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
  [ACL 2016](http://acl2016.org/), [EDBT 2016](http://edbticdt2016.labri.fr/), 
