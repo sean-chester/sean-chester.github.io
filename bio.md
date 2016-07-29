@@ -52,7 +52,7 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  
  * PhD students co-supervised: 
  1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
- 4 ongoing
+ 2 ongoing
  
  * MSc students co-supervised: 4 completed 
  ([Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
@@ -61,12 +61,14 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2))
  
  * Program Committees: 
+ [COLING 2016](http://coling2016.anlp.jp/),
  [EMNLP 2016](http://www.emnlp2016.net/), 
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
  * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 2)
  
- * Conference External Reviewer: [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
+ * Conference External Reviewer: 
+ [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
  [ACL 2016](http://acl2016.org/), [EDBT 2016](http://edbticdt2016.labri.fr/), 
  [SSDBM 2014](http://ssdbm2014.org/), [SIGKDD 2014](http://www.kdd.org/kdd2014/), 
  [DASFAA 2014](http://www.comp.nus.edu.sg/~dasfaa14/), [ExploreDB 2014](https://sites.google.com/site/exploredb2014/home),
