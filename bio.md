@@ -52,7 +52,9 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  
  * PhD students co-supervised: 
  1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
- 2 ongoing
+ 3 ongoing ([Kenneth Sejdenfaden B&oslash;gh](https://dk.linkedin.com/in/kenneth-sejdenfaden-bøgh-58915524), 
+ [Stella Maropaki](https://gr.linkedin.com/in/stella-maropaki-6881853b), 
+ [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm))
  
  * MSc students co-supervised: 4 completed 
  ([Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
@@ -65,9 +67,11 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [EMNLP 2016](http://www.emnlp2016.net/), 
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
- * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 2)
+ * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 3)
  
  * Conference External Reviewer: 
+ [ICDT 2017](http://edbticdt2017.unive.it/), 
+ [EDBT 2017](http://edbticdt2017.unive.it/), 
  [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
  [ACL 2016](http://acl2016.org/), [EDBT 2016](http://edbticdt2016.labri.fr/), 
  [SSDBM 2014](http://ssdbm2014.org/), [SIGKDD 2014](http://www.kdd.org/kdd2014/), 
