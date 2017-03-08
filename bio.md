@@ -48,7 +48,7 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
 
 ### Primary statistics
 
- * H-Index (according to Google Scholar): 7 
+ * H-Index (according to Google Scholar): 9 
  
  * PhD students co-supervised: 
  1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
@@ -63,11 +63,15 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2))
  
  * Program Committees: 
+ [ACL 2017](http://acl2017.org/),
  [COLING 2016](http://coling2016.anlp.jp/),
  [EMNLP 2016](http://www.emnlp2016.net/), 
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
- * Journal Reviewer: [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 3)
+ * Journal Reviewer: 
+ [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 3), 
+ [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), 
+ [Information Sciences](https://www.journals.elsevier.com/information-sciences/)
  
  * Conference External Reviewer: 
  [ICDT 2017](http://edbticdt2017.unive.it/), 
