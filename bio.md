@@ -60,11 +60,16 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [Stella Maropaki](https://gr.linkedin.com/in/stella-maropaki-6881853b)
  )
  
- * MSc students co-supervised: 4 completed 
- ([Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
- [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
- [Lisbet M&oslash;ller Andersen](https://www.linkedin.com/in/lisbetmollerandersen), 
- [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2))
+ * MSc students co-supervised: 
+ 4 completed (
+ 2015: [Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
+ 2015: [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
+ 2015: [Lisbet M&oslash;ller Andersen](https://www.linkedin.com/in/lisbetmollerandersen), 
+ 2014: [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2)
+ );
+ 1 ongoing (
+ [Truls Rustad Fossum](https://www.linkedin.com/in/truls-rustad-fossum-935a5169)
+ )
  
  * Program Committees: 
  [ACL 2017](http://acl2017.org/),
