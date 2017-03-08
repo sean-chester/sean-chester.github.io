@@ -51,10 +51,14 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  * H-Index (according to Google Scholar): 9 
  
  * PhD students co-supervised: 
- 1 completed ([Michael Lind Mortensen](https://www.linkedin.com/in/illio)); 
- 3 ongoing ([Kenneth Sejdenfaden B&oslash;gh](https://dk.linkedin.com/in/kenneth-sejdenfaden-bøgh-58915524), 
- [Stella Maropaki](https://gr.linkedin.com/in/stella-maropaki-6881853b), 
- [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm))
+ 2 completed (
+ 2016: [Kenneth Sejdenfaden B&oslash;gh](https://dk.linkedin.com/in/kenneth-sejdenfaden-bøgh-58915524), 
+ 2015: [Michael Lind Mortensen](https://www.linkedin.com/in/illio)
+ ); 
+ 2 ongoing (
+ [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
+ [Stella Maropaki](https://gr.linkedin.com/in/stella-maropaki-6881853b)
+ )
  
  * MSc students co-supervised: 4 completed 
  ([Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
