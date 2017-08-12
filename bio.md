@@ -78,9 +78,12 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
  * Journal Reviewer: 
- [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 3), 
+ [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 4), 
+ [ACM TODS](http://tods.acm.org/), 
+ [Information Systems](https://www.journals.elsevier.com/information-systems/), 
  [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), 
- [Information Sciences](https://www.journals.elsevier.com/information-sciences/)
+ [Information Sciences](https://www.journals.elsevier.com/information-sciences/), 
+ [Computing](https://www.springer.com/computer/journal/607)
  
  * Conference External Reviewer: 
  [ICDT 2017](http://edbticdt2017.unive.it/), 
