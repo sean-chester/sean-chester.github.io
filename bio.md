@@ -48,9 +48,10 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
 
 ### Primary statistics
 
- * H-Index (according to Google Scholar): 9 
+ * H-Index (according to Google Scholar): 10 
  
  * Program Committees: 
+ [NAACL 2018](http://naacl2018.org/),
  [ACL 2017](http://acl2017.org/),
  [COLING 2016](http://coling2016.anlp.jp/),
  [EMNLP 2016](http://www.emnlp2016.net/), 
@@ -65,6 +66,7 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [Computing](https://www.springer.com/computer/journal/607)
  
  * Conference External Reviewer: 
+ [ICDE 2018](https://icde2018.org/), 
  [ICDT 2017](http://edbticdt2017.unive.it/), 
  [EDBT 2017](http://edbticdt2017.unive.it/), 
  [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
