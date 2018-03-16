@@ -50,27 +50,6 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
 
  * H-Index (according to Google Scholar): 9 
  
- * PhD students co-supervised: 
- 2 completed (
- 2016: [Kenneth Sejdenfaden B&oslash;gh](https://dk.linkedin.com/in/kenneth-sejdenfaden-bøgh-58915524), 
- 2015: [Michael Lind Mortensen](https://www.linkedin.com/in/illio)
- ); 
- 2 ongoing (
- [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
- [Stella Maropaki](https://gr.linkedin.com/in/stella-maropaki-6881853b)
- )
- 
- * MSc students co-supervised: 
- 4 completed (
- 2015: [Manuel Ciosici](https://www.linkedin.com/in/manuelciosici), 
- 2015: [Malene Sj&oslash;slev S&oslash;holm](https://www.linkedin.com/in/soeholm), 
- 2015: [Lisbet M&oslash;ller Andersen](https://www.linkedin.com/in/lisbetmollerandersen), 
- 2014: [Mads W&oslash;lch Frandsen](https://www.linkedin.com/in/mads-wølch-frandsen-13aa0aa2)
- );
- 1 ongoing (
- [Truls Rustad Fossum](https://www.linkedin.com/in/truls-rustad-fossum-935a5169)
- )
- 
  * Program Committees: 
  [ACL 2017](http://acl2017.org/),
  [COLING 2016](http://coling2016.anlp.jp/),
