@@ -9,13 +9,13 @@ order: 1
 	<div id="name-box" >
 		<h1 style="padding-bottom:0em; margin-bottom:0em; ">Sean Chester</h1>
 		<h3 style="padding:0em; margin:0em; ">Postdoc, NTNU, Norway </h2 >
-    <div class="contact-col contact-col-3" style="margin-left:auto; margin-right:auto;">
-      <ul class="contact-list">
+    <div class="contact-col contact-col-3">
+      <ul class="contact-list" style="width:7em; margin-left:auto; margin-right:auto;">
         <li class="inline-social">
           {% include icon-email.html email=site.email %}
         </li>
         {% if site.github_username %}
-        <li class="inline-social">
+        <li class="inline-social" style="margin-left:2em; margin-right:2em; ">
           {% include icon-github.html username=site.github_username %}
         </li>
         {% endif %}
