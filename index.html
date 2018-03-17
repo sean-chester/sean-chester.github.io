@@ -9,6 +9,21 @@ order: 1
 	<div id="name-box" >
 		<h1 style="padding-bottom:0em; margin-bottom:0em; ">Sean Chester</h1>
 		<h3 style="padding:0em; margin:0em; ">Postdoc, NTNU, Norway </h2 >
+    <div class="contact-col contact-col-3" style="margin-left:auto; margin-right:auto;">
+      <ul class="contact-list">
+        <li class="inline-social"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {% if site.github_username %}
+        <li>
+          {% include icon-github.html username=site.github_username %}
+        </li>
+        {% endif %}
+        {% if site.twitter_username %}
+        <li>
+          {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
 	</div>
 	 
   <div id="info-box" >
