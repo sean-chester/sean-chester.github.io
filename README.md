@@ -8,3 +8,15 @@ I am highly unlikely to accept pull requests:
 please contact me in advance if you compelled to create one. 
 
 **View the website in the wild**: http://sean-chester.github.io.
+
+
+## License
+
+This site makes extensive use of [Font Awesome](https://fontawesome.com) 
+and [Academicons](https://jpswalsh.github.io/academicons/), which both 
+*really* are **awesome**. 
+Occasionally, *raw svg* is necessary, which I have downloaded from these 
+sites and which are subject to their respective licenses, 
+[CC BY 4.0](https://fontawesome.com/license) and [https://fontawesome.com/license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+All other content on this site is released under [The MIT License](The MIT License), but please feel free to credit me when appropriate.
