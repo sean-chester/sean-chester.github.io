@@ -51,6 +51,7 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  * H-Index (according to Google Scholar): 10 
  
  * Program Committees: 
+ [MATES @ VLDB 2018](http://ai-group.ds.unipi.gr/mates18/MATES18.html),
  [NAACL 2018](http://naacl2018.org/),
  [ACL 2017](http://acl2017.org/),
  [COLING 2016](http://coling2016.anlp.jp/),
@@ -58,9 +59,10 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [EMNLP 2015](https://www.cs.cmu.edu/~ark/EMNLP-2015/)
  
  * Journal Reviewer: 
- [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 4), 
+ [IEEE TKDE](https://www.computer.org/web/tkde) (&times; 7), 
  [ACM TODS](http://tods.acm.org/), 
- [Information Systems](https://www.journals.elsevier.com/information-systems/), 
+ [The VLDB Journal](https://link.springer.com/journal/778), 
+ [Information Systems](https://www.journals.elsevier.com/information-systems/) (&times; 2), 
  [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618), 
  [Information Sciences](https://www.journals.elsevier.com/information-sciences/), 
  [Computing](https://www.springer.com/computer/journal/607)
@@ -70,10 +72,14 @@ group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
  [ICDT 2017](http://edbticdt2017.unive.it/), 
  [EDBT 2017](http://edbticdt2017.unive.it/), 
  [PVLDB 2016 (demo track)](http://vldb2016.persistent.com/call_demonstrations.php), 
- [ACL 2016](http://acl2016.org/), [EDBT 2016](http://edbticdt2016.labri.fr/), 
- [SSDBM 2014](http://ssdbm2014.org/), [SIGKDD 2014](http://www.kdd.org/kdd2014/), 
- [DASFAA 2014](http://www.comp.nus.edu.sg/~dasfaa14/), [ExploreDB 2014](https://sites.google.com/site/exploredb2014/home),
- [ICALP 2013](http://www.icalp2013.lu.lv/), [FoIKS 2012](http://2012.foiks.org/), 
+ [ACL 2016](http://acl2016.org/),
+ [EDBT 2016](http://edbticdt2016.labri.fr/), 
+ [SSDBM 2014](http://ssdbm2014.org/),
+ [SIGKDD 2014](http://www.kdd.org/kdd2014/), 
+ [DASFAA 2014](http://www.comp.nus.edu.sg/~dasfaa14/),
+ [ExploreDB 2014](https://sites.google.com/site/exploredb2014/home),
+ [ICALP 2013](http://www.icalp2013.lu.lv/),
+ [FoIKS 2012](http://2012.foiks.org/), 
  [CIKM 2011](http://www.cikm2011.org/) 
 
 
