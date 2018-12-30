@@ -5,7 +5,7 @@ This is a single-contributor repository to serve up my personal academic webpage
 You are welcome to fork and adapt the repository in any way, for both commercial and non-commercial purposes, 
 as long as you immediately, recursively delete all contents of the _assets/_ directory. 
 I am highly unlikely to accept pull requests: 
-please contact me in advance if you compelled to create one. 
+please contact me in advance if you are compelled to create one. 
 
 **View the website in the wild**: http://sean-chester.github.io.
 
@@ -19,6 +19,8 @@ Occasionally, *raw svg* is necessary, which I have downloaded from these
 sites and which are subject to their respective licenses, 
 [CC BY 4.0](https://fontawesome.com/license) and [https://fontawesome.com/license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
 
-All other content on this site is released under 
+All other content on this site,
+except the aforementioned content of the _assets/_ directory,
+is released under 
 [The MIT License](https://opensource.org/licenses/MIT), 
 but please feel free to credit me when appropriate.
