@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sean Chester, Postdoc, NTNU
+title: Sean Chester, Marie Skłodowska Curie Individual Fellow, NTNU
 author: schester
 email: sean.chester@idi.ntnu.no
 description: > # this means to ignore newlines until "baseurl:"
-  The personal, academic webpage for Sean Chester, Marie Curie Individual Fellow 
+  The personal, academic webpage for Sean Chester, Marie Skłodowska Curie Individual Fellow
   at the Norwegian University of Science and Technology (NTNU). This site 
   highlights recent research and provides open-access author preprints.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,6 +23,14 @@ github_username:  sean-chester
 scholar_username: ZxNF5OYAAAAJ
 orcid_username: 0000-0002-1065-605X
 linkedin_username: sean-chester-24a2311a
+google_site_verification: v47833PE1BNhMRvPyy3gqvFr_k9dfDy8fBGMboEV3eI
+social:
+  name: Sean Chester
+  links:
+    - https://twitter.com/schester_
+    - https://www.linkedin.com/in/seanchester/
+    - https://github.com/sean-chester
+logo: /assets/images/ntnu_logo.png
 
 # Build settings
 markdown: kramdown
