@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sean Chester, Marie Skłodowska Curie Individual Fellow, NTNU
+title: Sean Chester, Assistant Professor, UVic
 author: schester
-email: sean.chester@idi.ntnu.no
+email: schester@uvic.ca
 description: > # this means to ignore newlines until "baseurl:"
-  The personal, academic webpage for Sean Chester, Marie Skłodowska Curie Individual Fellow
-  at the Norwegian University of Science and Technology (NTNU). This site 
+  The personal, academic webpage for Sean Chester, Assistant Professor
+  at the University of Victoria (UVic). This site 
   highlights recent research and provides open-access author preprints.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sean-chester.github.io" # the base hostname & protocol for your site
@@ -30,7 +30,7 @@ social:
     - https://twitter.com/schester_
     - https://www.linkedin.com/in/seanchester/
     - https://github.com/sean-chester
-logo: /assets/images/ntnu_logo.png
+logo: /assets/images/UVic_logo.png
 
 # Build settings
 markdown: kramdown
