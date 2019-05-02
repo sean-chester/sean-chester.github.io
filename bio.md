@@ -2,9 +2,8 @@
 layout: page
 title: Sean Chester - Biography
 description: >
-  A brief biography of Dr. Sean Chester, postdoctoral fellow at the 
-  Norwegian University of Science and Technology (NTNU) in Trondheim, 
-  Norway. 
+  A brief biography of Dr. Sean Chester, assistant professor at the 
+  University of Victoria (UVic) in Victoria, BC, Canada. 
 heading: Biography
 nav-title: Biography
 permalink: /bio/
@@ -15,40 +14,20 @@ seo:
   "https://no.linkedin.com/in/seanchester",
   "http://www.ntnu.edu/employees/seanwc"]
 ---
+Dr. Sean Chester is an assistant professor in Computer science at the University of Victoria in Canada. He specialises in _data management on 
+modern, highly parallel architectures_, such as graphics processing cards (GPUs) and multi-socket (i.e., NUMA) CPUs. His research typically appears 
+in top database periodicals: PVLDB, ACM SIGMOD, and IEEE ICDE.
 
-Sean Chester is a postdoctoral fellow in the 
-[Data and Information Management](https://www.ntnu.edu/idi/groups/dif) group 
-at Norway's top university for sciences and home institution of 
-[four Nobel Prize Laureates](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology#Nobel_Laureates): 
-NTNU. 
-His research focuses on designing algorithms for managing and querying data on 
-modern, highly parallel architectures such as graphics processing cards (GPUs) and 
-multi-socket (i.e., NUMA) CPUs. 
-This _basic research_, which typically results in 
-papers at top conferences such as **PVLDB**, **ICDE**, and **AAAI** and 
-academic-ready software on 
-[GitHub](http://github.com/sean-chester), enables other researchers to conduct experiments 
-in minutes or hours when they would otherwise take days or weeks. 
-He works closely with researchers at Aarhus University in Denmark, 
-EPFL in Switzerland, 
-Sheffield University in England, 
-and the University of Victoria in Canada.
+From 2017-2019, he held a prestigious Horizon 2020 Marie-Skłodowska Curie fellowship from the _European Research Council_, which he tenured
+at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Previously, he had been a postdoc at Aarhus University in Denmark
+and a graduate student at the University of Victoria.
 
-The [University of Victoria](http://csc.uvic.ca) is where Dr. Chester obtained his 
-PhD in 2013 under the co-supervision of 
-[Alex Thomo](http://webhome.cs.uvic.ca/~thomo/), 
-[Venkatesh Srinivasan](http://webhome.cs.uvic.ca/~venkat/), 
-and [Sue Whitesides](https://en.wikipedia.org/wiki/Sue_Whitesides). 
-It is also where he competed on the varsity athletics team for two years 
-and was selected for the national collegiate championships in cross-country. 
-From September 2013 until October 2015, he was a postdoctoral researcher 
-in the [Data-Intensive Systems](http://cs.au.dk/research-at-cs/data-intensive-systems/) 
-group of [Ira Assent](http://www.cs.au.dk/~ira/) at Aarhus University.
+You can read more about his research in the layman summaries on this website. You can read *even more* in the published papers! Most of the research work, written in c++, is openly and non-virally available with an _Unlicense_ on GitHub and all recent research manuscripts are freely available as green open access preprints on his [publications list](/publications/).
 
 
 ### Primary statistics
 
- * H-Index (according to Google Scholar): 10 
+ * H-Index (according to [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35188717200)): 8 
  
  * Program Committees: 
  [MATES @ VLDB 2018](http://ai-group.ds.unipi.gr/mates18/MATES18.html),
