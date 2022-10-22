@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Funded PhD Position, Fall 2023
 description: >
   Opening for one PhD student to conduct research in algorithms 
   for parallel accelerators with Dr. Sean Chester at the
