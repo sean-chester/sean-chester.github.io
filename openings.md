@@ -34,4 +34,4 @@ Below, you will find a list of currently open positions.
 
 ### List of Current Openings
 
-_Coming soon!_
+ * [One funded PhD candidate designing algorithms for in-memory processors](/openings/funded-phd-fall-2023)
