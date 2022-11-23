@@ -36,4 +36,3 @@ Below, you will find a list of currently open positions.
 
  * [One funded PhD candidate designing algorithms for in-memory processors](/openings/funded-phd-fall-2023)
  * [One self-funded thesis-based MSc candidate designing parallel algorithms](/openings/msc-thesis-fall-2023)
- * [Two self-funded project-based MSc candidates](/openings/msc-project-fall-2023)
