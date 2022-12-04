@@ -34,5 +34,4 @@ Below, you will find a list of currently open positions.
 
 ### List of Current Openings
 
- * [One funded PhD candidate designing algorithms for in-memory processors](/openings/funded-phd-fall-2023)
- * [One self-funded thesis-based MSc candidate designing parallel algorithms](/openings/msc-thesis-fall-2023)
+_Currently, we are only recruiting domestic, undergraduate researchers. Please check back in September 2023 for graduate-level intake._
