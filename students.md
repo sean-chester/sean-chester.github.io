@@ -23,7 +23,7 @@ order: 4
  * Aaditya Mukherjee, University of Victoria, 2022-
  * [Parisa Esmaeilian](https://www.linkedin.com/in/parisaes/), University of Victoria, 2021-
  * [Nima Fathollahi](https://www.linkedin.com/in/nima-fathollahi/), University of Victoria, 2021-
- * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021-
+ * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
 
  (One student scheduled to start in September 2023)
 
@@ -33,7 +33,7 @@ order: 4
 
  * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019-2021 (with Dr. Alex Thomo)
  * [Stella Maropaki](https://www.linkedin.com/in/stella-maropaki-6881853b/), Norwegian University of Science and Technology, 2015-2019 (as postdoc with Dr. Kjetil Nørvåg)
- * [Malene Sjørslev Søholm](https://www.linkedin.com/in/soeholm/), Norwegian University of Science and Technology, 2016-2019 (as postdoc with Dr. Kjetil Norvag)
+ * [Malene Sjørslev Søholm](https://www.linkedin.com/in/soeholm/), Norwegian University of Science and Technology, 2016-2019 (as postdoc with Dr. Kjetil Nørvåg)
  * [Michael Lind Mortensen](https://www.linkedin.com/in/illio/), Aarhus University, 2013-2015 (as postdoc with Dr. Ira Assent)
  * [Kenneth Sejdenfaden Bøgh](https://www.linkedin.com/in/kenneth-sejdenfaden-boegh-58915524/), Aarhus University, 2013-2015 (as postdoc with Dr. Ira Assent)
 
