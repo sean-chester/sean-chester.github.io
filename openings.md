@@ -8,7 +8,7 @@ description: >
 heading: Openings
 nav-title: Openings
 permalink: /openings/
-order: 5
+order: 6
 seo:
   name: Sean Chester
   links: ["https://plus.google.com/+SeanChester",
