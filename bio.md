@@ -19,7 +19,7 @@ modern, highly parallel architectures_, such as graphics processing cards (GPUs)
 in top database periodicals: PVLDB, ACM SIGMOD, and IEEE ICDE.
 
 From 2017-2019, he held a prestigious Horizon 2020 Marie-Skłodowska Curie fellowship from the _European Research Council_, which he tenured
-at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Previously, he had been a postdoc at Aarhus University in Denmark
-and a graduate student at the University of Victoria.
+at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Previously, he had been a postdoc at Aarhus University (Denmark)
+and a graduate student at the University of Victoria (Canada).
 
-You can read more about his research in the layman summaries on this website. You can read *even more* in the published papers! Most of the research work, written in c++, is openly and non-virally available with an _Unlicense_ on GitHub and all recent research manuscripts are freely available as green open access preprints on his [publications list](/publications/).
+Currently, his team is focusing on data-parallel, lock-free algorithms with applications in graph analytics, computer graphics, and natural language processing. We focus on combined theoretical-empirical validation with proofs of correctness and software prototypes to evaluate observed performance.
