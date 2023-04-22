@@ -27,6 +27,13 @@ order: 4
 
  (One student scheduled to start in September 2023)
 
+
+#### Undergraduate Scholars (Honour's and Awards Only)
+
+ * Victor Kamel, University of Victoria, NSERC USRA Scholar, Summer 2023
+ * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
+ * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2022
+
 ### Previous Graduate Students
 
 #### PhD
@@ -46,4 +53,16 @@ order: 4
  * [Manuel Ciosici](https://www.linkedin.com/in/manuelciosici/), Aarhus University, 2013-2015 (as postdoc with Dr. Ira Assent and Dr. Leon Derczynski)
  * [Malene Sjørslev Søholm](https://www.linkedin.com/in/soeholm/), Aarhus University, 2013-2015 (as postdoc with Dr. Ira Assent)
  * [Mads Wølch Frandsen](https://www.linkedin.com/in/mads-w%C3%B8lch-frandsen-13aa0aa2/), Aarhus University, 2013-2014 (as postdoc with Dr. Ira Assent)
+
+
+#### Undergraduate Scholars (Honour's and Awards Only)
+
+ * Victor Kamel, University of Victoria, JCURA Scholar, Fall 2022
+ * [Nghia Dam](https://www.linkedin.com/in/ndam1207/), University of Victoria, Honour's Thesis, Fall 2022
+ * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Mitacs Globalink Fellow, Summer 2022
+ * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Fellow, Summer 2021
+ * [Graeme Prendergast](https://www.linkedin.com/in/graemeprendergast/), University of Victoria, Honour's Thesis, Fall 2020
+ * [Dusty Miller](https://www.linkedin.com/in/dusty-miller-50a05816a/), University of Victoria, Honour's Thesis, Spring 2020
+
+
 
