@@ -2,19 +2,19 @@
 layout: page
 title: Sean Chester - Students Supervised
 nav-title: Students
-heading: Graduate Students Supervised
+heading: Research Students Supervised
 description: > 
-  A list of master and PhD students co-supervised by Sean Chester.
+  A list of research students co-supervised by Sean Chester.
 permalink: /students/
 order: 4
 ---
 
 
-### Current Graduate Students
+### Current Students
 
 #### PhD
 
-(One student scheduled to start in September 2023)
+(Hanxeuyu Yan scheduled to start in September 2023)
 
 
 #### Master's (Thesis-only)
@@ -25,14 +25,14 @@ order: 4
  * [Nima Fathollahi](https://www.linkedin.com/in/nima-fathollahi/), University of Victoria, 2021-
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
 
- (One student scheduled to start in September 2023)
+ (Wenfei Yu scheduled to start in September 2023)
 
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
  * Victor Kamel, University of Victoria, NSERC USRA Scholar, Summer 2023
  * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
- * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2022
+ * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2023
 
 ### Previous Graduate Students
 
@@ -60,7 +60,7 @@ order: 4
  * Victor Kamel, University of Victoria, JCURA Scholar, Fall 2022
  * [Nghia Dam](https://www.linkedin.com/in/ndam1207/), University of Victoria, Honour's Thesis, Fall 2022
  * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Mitacs Globalink Fellow, Summer 2022
- * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Fellow, Summer 2021
+ * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Fellow, Summer 2021 (with Dr. Charles Perin)
  * [Graeme Prendergast](https://www.linkedin.com/in/graemeprendergast/), University of Victoria, Honour's Thesis, Fall 2020
  * [Dusty Miller](https://www.linkedin.com/in/dusty-miller-50a05816a/), University of Victoria, Honour's Thesis, Spring 2020
 
