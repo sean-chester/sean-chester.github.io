@@ -20,7 +20,7 @@ seo:
 Are you the sort of individual who continually seeks to learn and improve,
 who sees excitement in tackling projects that aren't guaranteed to suceed,
 who would like to try to push up against the boundaries of human knowledge? 
-If so, you should consider joining [our dynamic team of young researchers](students/)
+If so, you should consider joining [our dynamic team of young researchers](../students/)
 who are each challenging themselves to construct new knowledge and opportunity.
 
 Positions in the group of Dr. Chester range from third-year undergraduate students conducting a scientific term project for course credit,
