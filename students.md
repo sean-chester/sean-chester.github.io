@@ -21,8 +21,6 @@ order: 4
 
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
  * Aaditya Mukherjee, University of Victoria, 2022-
- * [Parisa Esmaeilian](https://www.linkedin.com/in/parisaes/), University of Victoria, 2021-
- * [Nima Fathollahi](https://www.linkedin.com/in/nima-fathollahi/), University of Victoria, 2021-
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
 
  (Wenfei Yu scheduled to start in September 2023)
@@ -46,6 +44,8 @@ order: 4
 
 #### Master's (Thesis-only)
 
+ * [Parisa Esmaeilian Ghahroudi](https://www.linkedin.com/in/parisaes/), University of Victoria, 2021-2023
+ * [Nima Fathollahi](https://www.linkedin.com/in/nima-fathollahi/), University of Victoria, 2021-2023
  * [Ali Akber](https://www.linkedin.com/in/maliakber/), University of Victoria, 2020-2022 (with Dr. Alex Thomo)
  * [Sushil Paneru](https://www.linkedin.com/in/sushil-paneru-667562105/), University of Victoria, 2020-2021
  * [Mateo Gray](https://www.linkedin.com/in/mateo-gray-057b06160/), University of Victoria, 2019-2021 (with Dr. Hosna Jabbari)
