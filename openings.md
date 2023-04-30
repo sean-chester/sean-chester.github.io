@@ -34,4 +34,4 @@ Below, you will find a list of currently open positions.
 
 ### List of Current Openings
 
- * We are recruiting one graduate student who is already enrolled at the University of Victoria to jointly apply for [a one-semester funded research internship](research-intern-fall-2023) (**Deadline Tue 25 April**).
+ * _Currently, we are only recruiting domestic, undergraduate researchers. Please check back in September 2023 for graduate-level intake._
