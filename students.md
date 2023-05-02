@@ -14,7 +14,9 @@ order: 4
 
 #### PhD
 
-(Hanxeuyu Yan scheduled to start in September 2023)
+ * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019- (with Dr. Alex Thomo)
+
+(Hanxueyu Yan scheduled to start in September 2023)
 
 
 #### Master's (Thesis-only)
@@ -36,7 +38,6 @@ order: 4
 
 #### PhD
 
- * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019-2021 (with Dr. Alex Thomo)
  * [Stella Maropaki](https://www.linkedin.com/in/stella-maropaki-6881853b/), Norwegian University of Science and Technology, 2015-2019 (as postdoc with Dr. Kjetil Nørvåg)
  * [Malene Sjørslev Søholm](https://www.linkedin.com/in/soeholm/), Norwegian University of Science and Technology, 2016-2019 (as postdoc with Dr. Kjetil Nørvåg)
  * [Michael Lind Mortensen](https://www.linkedin.com/in/illio/), Aarhus University, 2013-2015 (as postdoc with Dr. Ira Assent)
