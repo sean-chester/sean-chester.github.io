@@ -28,6 +28,7 @@ _A data model is "a notation for describing data or information" that typically 
 
 (*Very* outdated) materials for this course are [available online](https://github.com/sean-chester/data-models-for-data-science/). Offered as a graduate-level course (CSC 501) as part of the Master's of Applied Data Science (MADS) program.
 
+ * [Fall 2023](http://heat.csc.uvic.ca/coview/course/2023091/CSC501)
  * [Fall 2022](http://heat.csc.uvic.ca/coview/course/2022091/CSC501)
  * [Fall 2021](http://heat.csc.uvic.ca/coview/course/2021091/CSC501)
  * [Fall 2020](http://heat.csc.uvic.ca/coview/course/2020091/CSC501)
@@ -51,6 +52,7 @@ Assignment materials for this course are [available online](https://github.com/s
 
 I regularly run directed studies courses with students in which we focus on a more individualised topic than is available in the standard curriculum. These are run at both the graduate- and undergraduate-level and often provide an opportunity to engage in undergraduate research. Examples of courses that I have co-designed with students include:
 
+ * Lock-free, GPU, & vector programming (Fall 2023)
  * Data-level Parallelism (Summer 2023)
  * Applied Natural Language Processing (Summer 2023)
  * Conversational AI (Spring 2023)
