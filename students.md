@@ -14,25 +14,19 @@ order: 4
 
 #### PhD
 
+ * [Hanxueyu (Harper) Yan](https://www.linkedin.com/in/hanxueyu-yan-43b61225a), University of Victoria, 2023-
  * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019- (with Dr. Alex Thomo)
-
-(Hanxueyu Yan scheduled to start in September 2023)
 
 
 #### Master's (Thesis-only)
 
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
- * Aaditya Mukherjee, University of Victoria, 2022-
+ * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
-
- (Wenfei Yu scheduled to start in September 2023)
 
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
- * Victor Kamel, University of Victoria, NSERC USRA Scholar, Summer 2023
- * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
- * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2023
 
 ### Previous Graduate Students
 
@@ -58,6 +52,9 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * Victor Kamel, University of Victoria, NSERC USRA, Summer 2023
+ * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
+ * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2023
  * Victor Kamel, University of Victoria, JCURA Scholar, Fall 2022
  * [Nghia Dam](https://www.linkedin.com/in/ndam1207/), University of Victoria, Honour's Thesis, Fall 2022
  * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Mitacs Globalink Fellow, Summer 2022
