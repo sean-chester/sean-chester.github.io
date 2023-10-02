@@ -24,6 +24,7 @@ order: 4
  * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
 
+(Wenfei Yu scheduled to start in January 2024)
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
