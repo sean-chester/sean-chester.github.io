@@ -34,4 +34,5 @@ Below, you will find a list of currently open positions.
 
 ### List of Current Openings
 
- * _Currently, we are only recruiting domestic, undergraduate researchers. Please check back in September 2023 for graduate-level intake._
+ * [One self-funded thesis-based MSc candidate designing algorithms for near-data processing](/openings/msc-thesis-fall-2024-near-data)
+ * [One self-funded thesis-based MSc candidate designing data systems to support high-performance machine learning](/openings/msc-thesis-fall-2024-vector-dbs)
