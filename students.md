@@ -17,6 +17,7 @@ order: 4
  * [Hanxueyu (Harper) Yan](https://www.linkedin.com/in/hanxueyu-yan-43b61225a), University of Victoria, 2023-
  * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019- (with Dr. Alex Thomo)
 
+(Azin Sabzian scheduled to start in September 2024)
 
 #### Master's (Thesis-only)
 
@@ -28,6 +29,7 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
 
 ### Previous Graduate Students
 
