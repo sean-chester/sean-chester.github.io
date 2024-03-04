@@ -21,6 +21,7 @@ order: 4
 
 #### Master's (Thesis-only)
 
+ * [Yijie (Jax) Wu](https://www.linkedin.com/in/yijie-wu-4b134b214/), University of Victoria, 2023-
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
  * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-
@@ -65,5 +66,6 @@ order: 4
  * [Graeme Prendergast](https://www.linkedin.com/in/graemeprendergast/), University of Victoria, Honour's Thesis, Fall 2020
  * [Dusty Miller](https://www.linkedin.com/in/dusty-miller-50a05816a/), University of Victoria, Honour's Thesis, Spring 2020
 
+(Enrique Brolo scheduled to start in May 2024)
 
 
