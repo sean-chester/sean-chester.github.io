@@ -32,6 +32,8 @@ order: 4
 
  * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
 
+(Enrique Brolo scheduled to start in May 2024)
+
 ### Previous Graduate Students
 
 #### PhD
@@ -65,7 +67,5 @@ order: 4
  * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Fellow, Summer 2021 (with Dr. Charles Perin)
  * [Graeme Prendergast](https://www.linkedin.com/in/graemeprendergast/), University of Victoria, Honour's Thesis, Fall 2020
  * [Dusty Miller](https://www.linkedin.com/in/dusty-miller-50a05816a/), University of Victoria, Honour's Thesis, Spring 2020
-
-(Enrique Brolo scheduled to start in May 2024)
 
 
