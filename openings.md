@@ -28,11 +28,5 @@ to senior undergraduate and graduate students pushing the limits of our standard
 up to occasional openings for PhD candidates to tackle a difficult topic and publish three solid research manuscripts over the course of four years.
 I am quite flexible with creating custom environments to help students push their limits and create new opportunities for themselves and for others, so long as it's related to my core expertise in parallel algorithms and data management.
 
-Below, you will find a list of currently open positions.
+Currently, we do not have any openings in the lab. Please check back in early Fall 2024.
 
-
-
-### List of Current Openings
-
- * [One self-funded thesis-based MSc candidate designing algorithms for near-data processing](/openings/msc-thesis-fall-2024-near-data)
- * [One self-funded thesis-based MSc candidate designing data systems to support high-performance machine learning](/openings/msc-thesis-fall-2024-vector-dbs)
