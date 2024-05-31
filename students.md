@@ -24,15 +24,14 @@ order: 4
  * [Yijie (Jax) Wu](https://www.linkedin.com/in/yijie-wu-4b134b214/), University of Victoria, 2023-
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
- * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-
+ * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022- (with Dr. Mario Nascimento)
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
 
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
- * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
+ * [Enrique Brolo](https://www.linkedin.com/in/enrique-brolo-7098b42a7), University of Victoria, VKURA Scholar, Summer 2024
 
-(Enrique Brolo scheduled to start in May 2024)
 
 ### Previous Graduate Students
 
@@ -58,6 +57,7 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
  * Victor Kamel, University of Victoria, NSERC USRA, Summer 2023
  * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
  * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2023
