@@ -30,7 +30,7 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
- * [Enrique Brolo](https://www.linkedin.com/in/enrique-brolo-7098b42a7), University of Victoria, VKURA Scholar, Summer 2024
+ * Ritu Randhawa, University of Victoria, JCURA Scholar, Fall 2024
 
 
 ### Previous Graduate Students
@@ -57,6 +57,7 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * [Enrique Brolo](https://www.linkedin.com/in/enrique-brolo-7098b42a7), University of Victoria, VKURA Scholar, Summer 2024
  * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
  * Victor Kamel, University of Victoria, NSERC USRA, Summer 2023
  * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Fellow, Summer 2023
