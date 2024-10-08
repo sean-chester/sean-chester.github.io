@@ -28,5 +28,5 @@ to senior undergraduate and graduate students pushing the limits of our standard
 up to occasional openings for PhD candidates to tackle a difficult topic and publish three solid research manuscripts over the course of four years.
 I am quite flexible with creating custom environments to help students push their limits and create new opportunities for themselves and for others, so long as it's related to my core expertise in parallel algorithms and data management.
 
-Currently, we do not have any openings in the lab. Please check back in early Fall 2024.
+We do not have any graduate student openings in the lab this Fall due to uncertainty around study permits and the impact that has on funding levels. Please check back in early Summer 2025.
 

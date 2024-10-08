@@ -17,7 +17,7 @@ order: 4
  * [Hanxueyu (Harper) Yan](https://www.linkedin.com/in/hanxueyu-yan-43b61225a), University of Victoria, 2023-
  * [Amir Mehrafsa](https://www.linkedin.com/in/mehrafsa/), University of Victoria, 2019- (with Dr. Alex Thomo)
 
-(Azin Sabzian scheduled to start in September 2024)
+(Azin Sabzian scheduled to start in January 2025)
 
 #### Master's (Thesis-only)
 
@@ -25,7 +25,7 @@ order: 4
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
  * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
  * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022- (with Dr. Mario Nascimento)
- * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin)
+ * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin, on leave)
 
 
 #### Undergraduate Scholars (Honour's and Awards Only)
