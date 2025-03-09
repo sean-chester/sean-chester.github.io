@@ -26,12 +26,14 @@ order: 4
  * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022- (with Dr. Mario Nascimento)
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin, on leave)
 
+([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start May 2025)
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
  * [Emily Martins](https://www.linkedin.com/in/emily-martins-a36a10299/), University of Victoria, Honour's Thesis, Spring 2025
  * [Kantas Onur Kilic](https://www.linkedin.com/in/kanta%C5%9F-onur-k%C4%B1l%C4%B1%C3%A7-b107b2309/), University of Victoria, Honour's Thesis, Spring 2025
  * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, Honour's Thesis, Spring 2025
+ * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, Honour's Thesis, Spring 2025 
  * [Gurtej Randhawa](https://www.linkedin.com/in/gurtej-randhawa-342528129/), University of Victoria, JCURA Scholar, Fall 2024
 
 (Tiange Zhang scheduled to start in Summer 2025)
