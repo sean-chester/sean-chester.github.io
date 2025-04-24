@@ -20,13 +20,11 @@ order: 4
 #### Master's (Thesis-only)
 
  * [Gaganjot Kaur](https://www.linkedin.com/in/gaganjt-kaur/), University of Victoria, 2024- (with Dr. Navneet Popli)
- * [Yijie (Jax) Wu](https://www.linkedin.com/in/yijie-wu-4b134b214/), University of Victoria, 2023-
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
- * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-
- * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022- (with Dr. Mario Nascimento)
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin, on leave)
 
-([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start May 2025)
+([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start Sept 2025)
+([Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/) scheduled to start Jan 2026)
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
@@ -49,6 +47,9 @@ order: 4
 
 #### Master's (Thesis-only)
 
+ * [Ninad Tongay](https://www.linkedin.com/in/ninadtongay/), University of Victoria, 2023-2025
+ * [Yijie (Jax) Wu](https://www.linkedin.com/in/yijie-wu-4b134b214/), University of Victoria, 2023-2025
+ * [Aaditya Mukherjee](https://www.linkedin.com/in/aaditya-mukherjee-a408b7214), University of Victoria, 2022-2025 (with Dr. Mario Nascimento)
  * [Parisa Esmaeilian Ghahroudi](https://www.linkedin.com/in/parisaes/), University of Victoria, 2021-2023
  * [Nima Fathollahi](https://www.linkedin.com/in/nima-fathollahi/), University of Victoria, 2021-2023
  * [Ali Akber](https://www.linkedin.com/in/maliakber/), University of Victoria, 2020-2022 (with Dr. Alex Thomo)
