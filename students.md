@@ -23,7 +23,7 @@ order: 4
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
  * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin, on leave)
 
-([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start Sept 2025)
+([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start Sept 2025)  
 ([Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/) scheduled to start Jan 2026)
 
 #### Undergraduate Scholars (Honour's and Awards Only)
@@ -31,10 +31,10 @@ order: 4
  * [Emily Martins](https://www.linkedin.com/in/emily-martins-a36a10299/), University of Victoria, Honour's Thesis, Spring 2025
  * [Kantas Onur Kilic](https://www.linkedin.com/in/kanta%C5%9F-onur-k%C4%B1l%C4%B1%C3%A7-b107b2309/), University of Victoria, Honour's Thesis, Spring 2025
  * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, Honour's Thesis, Spring 2025
- * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, Honour's Thesis, Spring 2025 
- * [Gurtej Randhawa](https://www.linkedin.com/in/gurtej-randhawa-342528129/), University of Victoria, JCURA Scholar, Fall 2024
+ * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, Honour's Thesis, Spring 2025
 
-(Tiange Zhang scheduled to start in Summer 2025)
+(Johnathan Warawa scheduled to start in Summer 2025)  
+(Tiange Zhang scheduled to start in Summer 2025)  
 
 ### Previous Graduate Students
 
@@ -63,6 +63,7 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * [Gurtej Randhawa](https://www.linkedin.com/in/gurtej-randhawa-342528129/), University of Victoria, JCURA Scholar, Fall 2024
  * [Enrique Brolo](https://www.linkedin.com/in/enrique-brolo-7098b42a7), University of Victoria, VKURA Scholar, Summer 2024
  * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
  * Victor Kamel, University of Victoria, NSERC USRA, Summer 2023
@@ -74,5 +75,3 @@ order: 4
  * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Research Fellow, Summer 2021 (with Dr. Charles Perin)
  * [Graeme Prendergast](https://www.linkedin.com/in/graemeprendergast/), University of Victoria, Honour's Thesis, Fall 2020
  * [Dusty Miller](https://www.linkedin.com/in/dusty-miller-50a05816a/), University of Victoria, Honour's Thesis, Spring 2020
-
-
