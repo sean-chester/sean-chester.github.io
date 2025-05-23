@@ -28,13 +28,9 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
- * [Emily Martins](https://www.linkedin.com/in/emily-martins-a36a10299/), University of Victoria, Honour's Thesis, Spring 2025
- * [Kantas Onur Kilic](https://www.linkedin.com/in/kanta%C5%9F-onur-k%C4%B1l%C4%B1%C3%A7-b107b2309/), University of Victoria, Honour's Thesis, Spring 2025
- * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, Honour's Thesis, Spring 2025
- * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, Honour's Thesis, Spring 2025
+ * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, Research Award, Summer 2025
 
-(Johnathan Warawa scheduled to start in Summer 2025)  
-(Tiange Zhang scheduled to start in Summer 2025)  
+(Tiange Zhang scheduled to start in July 2025)  
 
 ### Previous Graduate Students
 
@@ -63,13 +59,17 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * [Emily Martins](https://www.linkedin.com/in/emily-martins-a36a10299/), University of Victoria, Honour's Thesis, Spring 2025
+ * [Kantas Onur Kilic](https://www.linkedin.com/in/kanta%C5%9F-onur-k%C4%B1l%C4%B1%C3%A7-b107b2309/), University of Victoria, Honour's Thesis, Spring 2025
+ * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, Honour's Thesis, Spring 2025
+ * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, Honour's Thesis, Spring 2025
  * [Gurtej Randhawa](https://www.linkedin.com/in/gurtej-randhawa-342528129/), University of Victoria, JCURA Scholar, Fall 2024
  * [Enrique Brolo](https://www.linkedin.com/in/enrique-brolo-7098b42a7), University of Victoria, VKURA Scholar, Summer 2024
- * Victor Kamel, University of Victoria, Honour's Thesis, Spring 2024
- * Victor Kamel, University of Victoria, NSERC USRA, Summer 2023
+ * [Victor Kamel](https://orcid.org/0009-0009-1999-6577), University of Victoria, Honour's Thesis, Spring 2024
+ * [Victor Kamel](https://orcid.org/0009-0009-1999-6577), University of Victoria, NSERC USRA, Summer 2023
  * [Jorge Korgut Junior](https://www.linkedin.com/in/jorgekorgutjunior/), INSA Lyon, Mitacs Globalink Research Fellow, Summer 2023
  * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Honour's Thesis, Spring & Summer 2023
- * Victor Kamel, University of Victoria, JCURA Scholar, Fall 2022
+ * [Victor Kamel](https://orcid.org/0009-0009-1999-6577), University of Victoria, JCURA Scholar, Fall 2022
  * [Nghia Dam](https://www.linkedin.com/in/ndam1207/), University of Victoria, Honour's Thesis, Fall 2022
  * [Wenfei Yu](https://www.linkedin.com/in/wenfei-yu-234966220/), Huazhong University of Science and Technology, Mitacs Globalink Research Fellow, Summer 2022
  * [Anqi Xu](https://www.linkedin.com/in/anqi-xu-angel828/), Dalian University of Technology, Mitacs Globalink Research Fellow, Summer 2021 (with Dr. Charles Perin)
