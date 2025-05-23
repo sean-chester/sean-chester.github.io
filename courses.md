@@ -10,6 +10,15 @@ order: 5
 ---
 
 
+### GPU Computing
+
+_In the past ten years, the use of graphics processing units (GPUs) for general purpose computation has exploded. This has driven a lot of innovation in what was already a very different computer architecture from a standard CPU. Taking full advantage of the massive parallelism offered for GPUs thus requires thinking differently about algorithm design as well as understanding the architecture in order to obtain high throughput. In this course, you will learn how to expose non-trivial data-level parallelism, how to take full advantage of modern GPU hardware, and how to implement GPU applications in CUDA._
+
+Offered as a graduate-level course (CSC 586C) and as an undergraduate-level topics course (CSC 485B).
+
+ * [Fall 2024](https://heat.csc.uvic.ca/coview/course/2024091/CSC586C)
+
+
 ### Data Management on Modern Computer Architectures
 
 _An advanced, in-depth course on data-oriented design and shared-memory parallelism in which you will learn how to optimise software to run closer to "bare metal speed." Focusing on a semester-long group project, you will learn how to leverage knowledge of computer architecture to tackle the memory wall, optimise data structures for locality of reference, exploit "single-core parallelism" (i.e., superscalar cores and SIMD), expose data-level parallelism for multi-core machines, and transform graphics processing units (GPU's) into general purpose compute using CUDA. This knowledge will help you write software that increases performance per watt (saving mobile battery life or data centre emissions) and that scales into the future._
