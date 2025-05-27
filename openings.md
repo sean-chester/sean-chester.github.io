@@ -28,5 +28,9 @@ to senior undergraduate and graduate students pushing the limits of our standard
 up to occasional openings for PhD candidates to tackle a difficult topic and publish three solid research manuscripts over the course of four years.
 I am quite flexible with creating custom environments to help students push their limits and create new opportunities for themselves and for others, so long as it's related to my core expertise in parallel algorithms and data management.
 
-We do not have any graduate student openings in the lab this Fall due to uncertainty around study permits and the impact that has on funding levels. Please check back in early Summer 2025.
+We are hiring! Please see the specific opportunities below:
+
+  * [One fully funded PhD student in GPU algorithms](./openings/phd-fall-2025-gpgpu)
+  * [One self-funded MSc thesis student in vector databases](./openings/msc-thesis-fall-2025-vector-dbs)
+  * [One self-funded MSc thesis student in near-data processing](./openings/msc-thesis-fall-2025-near-data)
 

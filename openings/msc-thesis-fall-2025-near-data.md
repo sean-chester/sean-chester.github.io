@@ -5,8 +5,8 @@ description: >
   to conduct research in algorithms 
   for near-data processing with Dr. Sean Chester at the
   University of Victoria (UVic) in Victoria, BC, Canada. 
-heading: One Self-funded Thesis-Based MSc Position, Fall 2024 (near-data processing)
-permalink: /openings/msc-thesis-fall-2024-near-data
+heading: One Self-funded Thesis-Based MSc Position, Fall 2025 (near-data processing)
+permalink: /openings/msc-thesis-fall-2025-near-data
 seo:
   name: Sean Chester
   links: ["https://plus.google.com/+SeanChester",
@@ -14,7 +14,7 @@ seo:
   "https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/chester-sean.php"]
 ---
 
-_We have [two openings](../) for self-funded thesis-based MSc candidates to begin by September 2024. Applications will be reviewed in early November 2023. This position is in near-data processing_
+_We have [two openings](../) for self-funded thesis-based MSc candidates to begin by January 2026. Applications will be reviewed in mid-July 2025. This position is in near-data processing_
 
 ### Designing Algorithms for Near-Data Processing
 
@@ -36,13 +36,6 @@ If you apply to this position, please try to position your strengths and/or inte
  * Can you design algorithms to solve a problem and demonstrate that they are correct?
 
 
-### Research Environment
-
-Our gender-balanced, multinational [research team](../students) consists of one Assistant Professor, two PhD researchers, four master's students, and one undergraduate scholar, collectively from five countries. We are growth- and excellence-oriented: we have weekly skill development sessions and master's students should strive to publish their research at top conferences. I meet at least weekly in a one-to-one context and am heavily involved in the research itself. We also communicate asynchronously with collaboration tools outside of those meetings. The team meets at least once per month for social activities. Researchers typically have access to a shared office inside the research lab if they plan to work in-person on campus. I hire in small cohorts and the intent is to have three researchers start and learn together in Fall 2024.
-
-The university is situated near beautiful coastal old growth rainforest on an island that is slightly larger than Belgium. The temperature is moderate with only a week or two of snow in the city each year. It is common to enjoy skiing in the mountains in the winter, hiking and water sports, whale watching, swimming in the many large lakes in the city, the outsized variety of restaurants and cafes of a mid-sized capitol city, and expansive beaches. Canada is a liberal country in which you are strongly encouraged to become who you want to be.
-
-
 ### Application Process
 
 Formally, you must follow [the process outlined on the department website](https://www.uvic.ca/ecs/computerscience/graduate/applying/index.php) prior to receiving an offer.
@@ -50,20 +43,18 @@ Formally, you must follow [the process outlined on the department website](https
 Informally, you _must_ also:
 
   - contact me directly by email, positioning yourself with respect to the three questions above that characterise a successful candidate for this position. At a minimum, you should provide a CV, unofficial transcript, and three to five paragraphs explaining how you fit the candidate profile described above
-  - This step should be done prior to **midnight UTC-7, Sunday, 5 November 2023**.
+  - This step should be done prior to **midnight UTC-7, Tuesday, 1 July 2025**.
 
 The timeline is as follows:
 
-  - in the second full week of November (week number 45), I will contact shortlisted candidates who have the strongest evidence that they fit the profile above and meet the formal requirements of the university
-  - in the third full week of November (week number 46), we will conduct technical interviews with the shortlisted candidates
-  - in the final week of November (week number 47), we will conduct second round interviews and extend an offer
+  - in the first full week of July (week number 28), I will contact shortlisted candidates who have the strongest evidence that they fit the profile above and meet the formal requirements of the university
+  - in the second full week of July (week number 29), we will conduct technical interviews with the shortlisted candidates
+  - in the third full week of July (week number 30), we will conduct second round interviews and extend an offer
 
-### What is a Thesis-Based MSc?
+_Applications that have used LLMs, like ChatGPT, will be discarded. The lab is open-minded to LLMs, but this is not an appropriate place to use them._
 
-It is important to note that at the University of Victoria, we have [two options for master's degrees](https://www.uvic.ca/ecs/computerscience/graduate/masters/msc-programs/index.php): a _thesis_ option and a _project_ option. _Our lab is only hiring in the thesis option this year_.
+### Research Environment
 
-The _thesis_ option is focused on a novel two-year scientific research investigation that culminates in a thesis that you must defend in front of a committee to graduate. The coursework is auxiliary and consists of only five courses that are complementary to your concurrent research. The thesis option is necessary if you intend to pursue further graduate studies, such as a PhD, and _highly_ advised if you wish to pursue a career in research and development (R&D).
+Our gender-balanced, multinational [research team](../students) consists of one Assistant Professor, two PhD researchers, five master's students, and two undergraduate scholars, collectively from five countries. We are growth- and excellence-oriented: we have weekly skill development sessions and all students should strive to publish their research at top conferences. I meet at least weekly in a one-to-one context and am heavily involved in the research itself. We also communicate asynchronously with collaboration tools outside of those meetings. The team meets at least once per month for social activities. Researchers typically have access to a shared research lab if they plan to work in-person on campus. I hire in small cohorts and the intent is to have four researchers start and learn together in Fall/Winter 2025/2026.
 
-The _project_ option requires eight graduate-level courses and a lighter one- or two-semester research project. Generally, it involves less interaction with the supervisor as less research guidance and mentorship is required until the final two semesters.
-
-Students in both options are encouraged to spend one or two four-month semesters in paid research internships or work placements to improve post-graduation employment prospects, develop additional skills, and to earn income to help cover study expenses. They are also encouraged to take part-time positions as teaching assistants to provide additional experience and income.
+The university is situated near beautiful coastal old growth rainforest on an island that is slightly larger than Belgium. The temperature is moderate with only a week or two of snow in the city each year. It is common to enjoy skiing in the mountains in the winter, hiking and water sports, whale watching, swimming in the many large lakes in the city, the outsized variety of restaurants and cafes of a mid-sized capitol city, and expansive beaches. Canada is a liberal country in which you are strongly encouraged to become who you want to be.
