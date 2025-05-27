@@ -30,7 +30,7 @@ I am quite flexible with creating custom environments to help students push thei
 
 We are hiring! Please see the specific opportunities below:
 
-  * [One fully funded PhD student in GPU algorithms](./openings/phd-fall-2025-gpgpu)
-  * [One self-funded MSc thesis student in vector databases](./openings/msc-thesis-fall-2025-vector-dbs)
-  * [One self-funded MSc thesis student in near-data processing](./openings/msc-thesis-fall-2025-near-data)
+  * [One fully funded PhD student in GPU algorithms](./phd-fall-2025-gpgpu)
+  * [One self-funded MSc thesis student in vector databases](./msc-thesis-fall-2025-vector-db)
+  * [One self-funded MSc thesis student in near-data processing](./msc-thesis-fall-2025-near-data)
 
