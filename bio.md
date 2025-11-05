@@ -14,12 +14,6 @@ seo:
   "https://no.linkedin.com/in/seanchester",
   "http://www.ntnu.edu/employees/seanwc"]
 ---
-Dr. Sean Chester is an assistant professor in Computer science at the University of Victoria in Canada. He specialises in _data management on 
-modern, highly parallel architectures_, such as graphics processing cards (GPUs) and multi-socket (i.e., NUMA) CPUs. His research typically appears 
-in top database periodicals: PVLDB, ACM SIGMOD, and IEEE ICDE.
+Dr. Sean Chester is an assistant professor in Computer science at the University of Victoria in Canada, where he is also cross-listed in the Electrical & Computer Engineering department. His research specialises in data management on modern, highly parallel architectures, such as developing novel algorithms for graphics processing cards (GPUs). He has recently served on program committees for ICDE and DASFAA and reviewed for the VLDB Journal, TKDE, the Journal of Supercomputing, and others.
 
-From 2017-2019, he held a prestigious Horizon 2020 Marie-Skłodowska Curie fellowship from the _European Research Council_, which he tenured
-at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Previously, he had been a postdoc at Aarhus University (Denmark)
-and a graduate student at the University of Victoria (Canada).
-
-Currently, his team is focusing on data-parallel, lock-free algorithms with applications in graph analytics, computer graphics, and natural language processing. We focus on combined theoretical-empirical validation with proofs of correctness and software prototypes to evaluate observed performance.
+Previously, he held a prestigious Marie-Skłodowska Curie fellowship from the European Research Council, which he tenured at the Norwegian University of Science and Technology (NTNU) in Trondheim, Norway. Prior to that, he was a postdoc at Aarhus University (Denmark) and a graduate student at the University of Victoria (Canada).
