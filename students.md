@@ -19,18 +19,23 @@ order: 4
 
 #### Master's (Thesis-only)
 
- * [Gaganjot Kaur](https://www.linkedin.com/in/gaganjt-kaur/), University of Victoria, 2024- (with Dr. Navneet Popli)
+ * [Nguiagaing Seuga Marcel Youri](https://www.linkedin.com/in/marcel-seuga/), University of Victoria, 2026-
+ * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, 2026-
+ * [Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/), University of Victoria, 2025-  
+ * [Gaganjot Kaur](https://www.linkedin.com/in/gaganjt-kaur/), University of Victoria, 2024- (with Dr. Alex Thomo)
  * [Khizra Hanif](https://www.linkedin.com/in/khizra-hanif-6020b4117/), University of Victoria, 2023-
- * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021- (with Dr. Charles Perin, on leave)
+ * [Nazanin Shamshiri](https://www.linkedin.com/in/nazanin-shamshiri-52a581212/), University of Victoria, 2021-
 
-([Hoksolinvan Chhun](https://www.linkedin.com/in/hoksolinvan-chhun-26a31b222/) scheduled to start Sept 2025)  
-([Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/) scheduled to start Jan 2026)
+([Sara Alifetrat](https://www.linkedin.com/in/sara-alifetrat/) scheduled to start Sept 2026)  
+([Sara Mohammadi](https://www.linkedin.com/in/sara-mohammadi-baa151250/) scheduled to start Sept 2026)  
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
- * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, Research Award, Summer 2025
+ * [Viktoriia Horobets](https://www.linkedin.com/in/victoriavavis/), National Technical University of Ukraine, Honour's Thesis, Spring 2026
+ * [Gerry Peng](https://www.linkedin.com/in/gerry-peng-321135255/), University of Victoria, JCURA Scholar, Fall 2025
+ * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, JCURA Scholar, Fall 2025
 
-(Tiange Zhang scheduled to start in July 2025)  
+(Viktoriia Horobets scheduled to start a Mitacs Globalink internship in Summer 2026)  
 
 ### Previous Graduate Students
 
@@ -59,6 +64,9 @@ order: 4
 
 #### Undergraduate Scholars (Honour's and Awards Only)
 
+ * [Gerry Peng](https://www.linkedin.com/in/gerry-peng-321135255/), University of Victoria, Honour's Thesis, Fall 2025
+ * Tiange Zhang, Nankai University, Mitacs Globalink Research Fellow, Summer 2025
+ * [Johnathan Warawa](https://orcid.org/0009-0007-2027-4657), University of Victoria, Research Award, Summer 2025
  * [Emily Martins](https://www.linkedin.com/in/emily-martins-a36a10299/), University of Victoria, Honour's Thesis, Spring 2025
  * [Kantas Onur Kilic](https://www.linkedin.com/in/kanta%C5%9F-onur-k%C4%B1l%C4%B1%C3%A7-b107b2309/), University of Victoria, Honour's Thesis, Spring 2025
  * [Paurav H Param](https://www.linkedin.com/in/paurav-h-param-025055264/), University of Victoria, Honour's Thesis, Spring 2025
